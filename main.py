@@ -41,7 +41,6 @@ class ProductObjects:
                 print(f"Product ID: {product_add_list.product_id}, name: {product_add_list.name}, price: {product_add_list.price}, quantity: {product_add_list.quantity}")
 
 
-
 product = ProductObjects()
 product_object1 = Product(1, "Toy car", 5.75, 15)
 product_object2 = Product(2, "Shampoo", 5.2, 4)
